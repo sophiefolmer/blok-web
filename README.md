@@ -63,6 +63,8 @@ hier de naam van de pagina
 ### dynamisch deel (bijv menu): 
 <img src="images/vice-menu.jpg" width="375px" alt="breakdown van het menu">
 
+### wellicht nog een dynamisch deel (bijv filter): 
+<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -70,153 +72,42 @@ hier de naam van de pagina
 
 
 
-## Voortgang 1 (week 2)
+## Mijn proces
 
-<details>
-<summary>uitwerken voor 1e voortgang</summary>
+Ik koos voor vice.com omdat de site er mooi en verzorgd uitziet en ik veel aan de slag kon met flexbox en grid. 
 
-### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik begon met het schrijven van de HTML en dat ging mij best goed af. Ik was gelukkig niet alles vergeten en de breakdownsheet hielp enorm.
 
+Ik was heel lang bezig met CSS en ik vond het moeilijk om te beginnen met de mobiele versie. Ik besloot toch van groot naar klein te gaan. In mijn voortgangsgesprek kwam naar voren dat ik minder moest werken met classes. Dit was nieuw voor mij en het duurde even voordat ik onder de knie kreeg. 
 
-### Agenda voor meeting
-samen met je groepje opstellen
+Ik ben trots op het eindresultaat en zie zelf ook dat een aantal dingen wat mooier konden. Ondanks dat merkte ik dat (vooral) op het eind ik lekker kon doortypen en coderen. Ik wist uiteindelijk meer dan ik dacht en hoefde daarom ook minder op te zoeken. 
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Ik heb veel kunnen leren dankzij de stof die we kregen tijdens de lessen. Via Codepen kon ik altijd even oefenen en dat hielp mij om het beter te begrijpen. Ik was ook heel blij dat ik via Google Chrome mijn fouten kon vinden en herstellen. 
 
+Feedback
 
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Classes
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik gebruikte alleen maar classes om de vormgeving te veranderen. Dit kon ook anders opgelost worden door bijvoorbeeld nth-of-type te gebruiken. Dit is na mijn eerste voorrangsgesprek aangepast. 
 
-</details>
+<li> in nav
+
+Ik had alleen <a> in mijn navigatie terwijl het mooier is om gewoon een <ul> te maken met daarin <li> items. 
+
+geen <div>
+
+Voor een aantal onderdelen gebruikte ik onnodig <div>jes. Ik heb dit vervangen door bijvoorbeeld <section> of <aside>. 
 
 
 
 
-
-## Voortgang 2 (week 3)
-
-<details>
-<summary>uitwerken voor 2e voortgang</summary>
-
-### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
-</details>
-
-
-
-
-
-## Toegankelijkheidstest (week 4)
-
-<details>
-<summary>uitwerken na test in 8e voortgang</summary>
-
-### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
-
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-</details>
-
-
-
-
-
-## Voortgang 3 (week 4)
-
-<details>
-<summary>uitwerken voor 3e voortgang</summary>
-
-### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
-</details>
-
-
-
-
-
-## Eindgesprek (week 5)
-
-<details>
-<summary>uitwerken voor eindgesprek</summary>
-
-### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="images/pagina1.png" width="375px" alt="">
+<img src="images/pagina2.png" width="375px" alt="">
+<img src="images/pagina1_mobile.png" width="375px" alt="">
+<img src="images/pagina2_mobile.png" width="375px" alt="">
 
 </details>
 
@@ -231,8 +122,14 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. https://css-tricks.com/snippets/css/complete-guide-grid/
+3. https://flexbox.io video's
+4. https://www.youtube.com/watch?v=dIyVTjJAkLw (hamburger menu)
+5. https://www.w3schools.com/html/html_form_input_types.asp
+6. https://www.w3schools.com/cssref/pr_class_float.asp
+7. https://www.w3schools.com/cssref/pr_border.asp
+8. https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
+9. https://www.w3schools.com/css/css_grid.asp
 
 </details>
