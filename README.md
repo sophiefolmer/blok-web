@@ -90,13 +90,13 @@ Classes
 
 Ik gebruikte alleen maar classes om de vormgeving te veranderen. Dit kon ook anders opgelost worden door bijvoorbeeld nth-of-type te gebruiken. Dit is na mijn eerste voorrangsgesprek aangepast. 
 
-<li> in nav
+li in nav
 
-Ik had alleen <a> in mijn navigatie terwijl het mooier is om gewoon een <ul> te maken met daarin <li> items. 
+Ik had alleen a in mijn navigatie terwijl het mooier is om gewoon een ul te maken met daarin li items. 
 
-geen <div>
+geen div
 
-Voor een aantal onderdelen gebruikte ik onnodig <div>jes. Ik heb dit vervangen door bijvoorbeeld <section> of <aside>. 
+Voor een aantal onderdelen gebruikte ik onnodig divjes. Ik heb dit vervangen door bijvoorbeeld section of aside. 
 
 
 
